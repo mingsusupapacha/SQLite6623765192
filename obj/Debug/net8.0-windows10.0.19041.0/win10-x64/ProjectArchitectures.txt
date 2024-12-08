@@ -1,0 +1,1 @@
+C:\Users\Kanta\source\repos\SQLiteDemo\SQLiteDemo.csproj;x64
